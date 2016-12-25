@@ -1,0 +1,22 @@
+{
+  "name": "advice",
+  "version": "1.0.0",
+  "description": "simple ajax fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihatetoast/creepyman-advice.git"
+  },
+  "author": "Katy Cassidy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ihatetoast/creepyman-advice/issues"
+  },
+  "homepage": "https://github.com/ihatetoast/creepyman-advice#readme",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
